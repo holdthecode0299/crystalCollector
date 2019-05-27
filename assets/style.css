@@ -1,0 +1,21 @@
+h1 {
+    color:white;
+    background-color: aquamarine;
+    width: 25%;
+    padding:30px; 
+    text-align: center;
+    };
+    
+    .crystals-button {
+        display: inline;
+      }
+      
+      .crystal-img {
+        width: 200px;
+        height: 200px;
+        float: left;
+        margin-right: 2px;
+        background-color: white;
+      
+        }
+    
