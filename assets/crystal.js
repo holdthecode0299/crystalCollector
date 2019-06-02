@@ -16,19 +16,19 @@ $(document).ready(function() {
       return {
         violet: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: "crystal.jpg"
+          imageUrl: "./assets/crystal.jpg"
         },
         blue: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: "crystal1.jpg"
+          imageUrl: "./assets/crystal1.jpg"
         },
         pink: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: "crystal2.jpg"
+          imageUrl: "./assets/crystal2.jpg"
         },
         green: {
           points: Math.floor(Math.random() * 12) + 1,
-          imageUrl: "crystal3.jpg"
+          imageUrl: "./assets/crystal3.jpg"
         }
       };
     }

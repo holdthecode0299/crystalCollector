@@ -1,5 +1,10 @@
 # crystalCollector
 
+Languages Used 
+-HTML 
+-CSS
+-jQuery 
+
 Crystals Collector game will be utilizing jQuery. 
 
 Instructions 
